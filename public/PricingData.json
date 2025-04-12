@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Starter",
+    "price": "$29/Month",
+    "description": "Perfect for beginners who want to explore the magic of Gem.",
+    "features": [
+      "Basic Gem tools",
+      "1 project slot",
+      "Community access",
+      "Monthly updates",
+      "Email support",
+      "Access to public templates"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": "$59/Month",
+    "popular": true,
+    "description": "For creators ready to level up and unlock more powerful tools.",
+    "features": [
+      "All Starter features",
+      "Up to 10 projects",
+      "Priority support",
+      "Premium templates",
+      "Team collaboration",
+      "Advanced export options",
+      "Faster build times"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elite",
+    "price": "$79/Month",
+    "popular": true,
+    "description": "The complete Gem experience for professionals and teams.",
+    "features": [
+      "All Pro features",
+      "Unlimited projects",
+      "Custom branding options",
+      "Early feature access",
+      "Dedicated support",
+      "Advanced usage analytics",
+      "Private project hosting",
+      "Onboarding assistance",
+      "Security & compliance tools"
+    ]
+  }
+]
