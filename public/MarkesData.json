@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha",
+    "marks": {
+      "Bangla": 85,
+      "English": 78,
+      "ICT": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rafi",
+    "marks": {
+      "Bangla": 74,
+      "English": 69,
+      "ICT": 88
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mira",
+    "marks": {
+      "Bangla": 90,
+      "English": 82,
+      "ICT": 95
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tanvir",
+    "marks": {
+      "Bangla": 67,
+      "English": 73,
+      "ICT": 80
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nabila",
+    "marks": {
+      "Bangla": 88,
+      "English": 85,
+      "ICT": 91
+    }
+  },
+  {
+    "id": 6,
+    "name": "Siam",
+    "marks": {
+      "Bangla": 72,
+      "English": 70,
+      "ICT": 78
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lamia",
+    "marks": {
+      "Bangla": 93,
+      "English": 89,
+      "ICT": 94
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hasan",
+    "marks": {
+      "Bangla": 65,
+      "English": 60,
+      "ICT": 75
+    }
+  },
+  {
+    "id": 9,
+    "name": "Tanjim",
+    "marks": {
+      "Bangla": 77,
+      "English": 80,
+      "ICT": 85
+    }
+  },
+  {
+    "id": 10,
+    "name": "Farzana",
+    "marks": {
+      "Bangla": 84,
+      "English": 76,
+      "ICT": 90
+    }
+  }
+]
